@@ -52,4 +52,3 @@ function calc() {
     purchases = [];
     priceElement.value= "";
     numberElement.value = "";
-  }
