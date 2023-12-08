@@ -1,7 +1,7 @@
 
 .key {
   height: 500px;
-  background: center / cover no-repeat url("css/images/sample_key.jpg");
+  background: center/cover url("../images/sample_logo_k.png");
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -39,7 +39,7 @@
 } */
 
 .menu_section {
-  background: url("../css/images/sample_menu_bg.jpg") no-repeat bottom;
+  background: url("../images/sample_menu_bg.jpg") no-repeat bottom;
   background-size: 100%;
   background-attachment: fixed;
 }
